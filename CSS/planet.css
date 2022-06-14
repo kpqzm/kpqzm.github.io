@@ -77,7 +77,7 @@ aside li{
 body{
     margin: auto;
     border: 0px solid #CCCCCC;
-    background-image: url("../../images/우주배경.webp");
+    background-image: url("../images/우주배경.webp");
 }
 a {
     text-decoration: none;
